@@ -4,3 +4,4 @@ select
     last_name
 
 from "RAW".jaffle_shop.customers
+
